@@ -1,0 +1,11 @@
+{
+    "name": "ecotone/app",
+    "autoload": {
+        "psr-4": {
+            "Ecotone\\App\\": "src/"
+        }
+    },
+    "require": {
+        "ecotone/lite-event-sourcing-starter": "^1.0"
+    }
+}
